@@ -1,0 +1,28 @@
+<?php declare(strict_types=1);
+
+const MEDIA = [
+	'nazwa'       => 'mySpotify',
+	'tabela'      => 'song',
+	'id'          => 'ids',
+	'tytul'       => 'title',
+	'autor'       => 'musician',
+	'tekst'       => 'lyrics',
+	'plik'        => 'filename',
+	'gat'         => 'idmt',
+	'gat_tabela'  => 'musictype',
+	'gat_nazwa'   => 'name',
+	'katalog'     => 'songs',
+	'roz'         => 'mp3',
+	'mime'        => 'audio/mpeg',
+	'tag'         => 'audio',
+	'napisy_vtt'  => false,
+	'jedn'        => 'utwór',
+	'mn'          => 'utwory',
+	'dop'         => 'utworu',
+	'dop_mn'      => 'utworów',
+	'moje'        => 'Moje utwory',
+	'autor_l'     => 'Wykonawca',
+	'tekst_l'     => 'Tekst piosenki',
+	'ikona'       => 'bi-music-note-beamed',
+	'gatunki'     => ['pop', 'rock', 'hip-hop', 'electronic dance', 'R&B', 'latin', 'country', 'metal', 'jazz', 'classic', 'inny'],
+];
